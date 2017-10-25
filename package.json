@@ -1,0 +1,22 @@
+{
+  "name": "node-find-file",
+  "version": "1.0.0",
+  "description": "a nodejs module like find command",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sy9876/node-find-file.git"
+  },
+  "keywords": [
+    "find"
+  ],
+  "author": "sy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sy9876/node-find-file/issues"
+  },
+  "homepage": "https://github.com/Sy9876/node-find-file#readme"
+}
